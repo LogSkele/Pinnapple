@@ -18,6 +18,7 @@ Submit a pr and i ***might*** accept it.
 [@JBYT27](https://github.com/JBYT27): for suggesting [this](https://github.com/iop3/Pinnapple/issues/1)
 
 [@theiocoder](https://github.com/theiocoder): for adding *more* recipes.
+
 me: for doing everything else
 <br>
 ###### stolen from [Potato](https://github.com/drtshock/Potato)
