@@ -17,7 +17,7 @@ Submit a pr and i ***might*** accept it.
 ## Credits
 [@JBYT27](https://github.com/JBYT27): for suggesting [this](https://github.com/iop3/Pinnapple/issues/1)
 
-[@theiocoder](https://github.com/theiocoder): for adding *more* recipes.
+[@theiocoder](https://github.com/theiocoder) and [@nlanson](https://github.com/nlanson): for adding *more* recipes.
 
 me: for doing everything else
 <br>
