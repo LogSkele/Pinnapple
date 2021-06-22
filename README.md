@@ -4,7 +4,7 @@
 If you fork this then you can say you forked a pineapple.
 
 
-## History(?)
+## A quote
 > "A pinnapple is a fruit. It is mostly yellow. If you fork u *gud*."
 
 ~ thequackyduck (2021) 
