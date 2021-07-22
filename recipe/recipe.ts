@@ -1,6 +1,6 @@
-class Pinnaple {
+class Pineapple {
   private static stepOne() {
-    return '1.Get a pinnapple 🍍.\n';
+    return '1.Get a pineapple 🍍.\n';
   }
 
   private static stepTwo() {
@@ -16,14 +16,14 @@ class Pinnaple {
   }
 
   perfectRecipe() {
-    const stepOne = Pinnaple.stepOne();
-    const stepTwo = Pinnaple.stepTwo();
-    const stepThree = Pinnaple.stepThree();
-    const stepFour = Pinnaple.stepFour();
-    console.log(`Recipe of obtaining the perfect pinnapple:\n${stepOne}${stepTwo}${stepThree}${stepFour}`);
+    const stepOne = Pineapple.stepOne();
+    const stepTwo = Pineapple.stepTwo();
+    const stepThree = Pineapple.stepThree();
+    const stepFour = Pineapple.stepFour();
+    console.log(`Recipe of obtaining the perfect pineapple:\n${stepOne}${stepTwo}${stepThree}${stepFour}`);
   }
 }
 
-const pinnaple = new Pinnaple();
+const pineapple = new Pineapple();
 
-pinnaple.perfectRecipe();
+pineapple.perfectRecipe();
