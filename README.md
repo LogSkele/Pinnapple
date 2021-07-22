@@ -9,7 +9,8 @@
 ## A quote
 > "A pinnapple is a fruit. It is mostly yellow. If you fork u *gud*."
 
-~ thequackyduck (2021) 
+~ keystove (2021)
+
 ## Recipe
 You can find the recipe at [`recipe.md`](https://github.com/iop3/Pinnapple/blob/main/recipe.md)
 
