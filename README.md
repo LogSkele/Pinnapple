@@ -6,10 +6,14 @@
 **If you fork this then you can say you forked a pineapple.**
 
 
-## A quote
+## Quotes
 > "A pinnapple is a fruit. It is mostly yellow. If you fork u *gud*."
 
 ~ keystove (2021)
+
+> "...And a pineapple. Am I the only one who's curious about the pineapple?!"
+
+~ Marshall, How I Met Your Mother Tv Show, Season 1 Episode 10 (2005)
 
 ## Recipe
 You can find the recipe at [`recipe.md`](https://github.com/iop3/Pinnapple/blob/main/recipe.md)
