@@ -9,7 +9,7 @@
 ## Quotes
 > "A pinnapple is a fruit. It is mostly yellow. If you fork u *gud*."
 
-~ keystove (2021)
+~ 0kb0i
 
 > "...And a pineapple. Am I the only one who's curious about the pineapple?!"
 
