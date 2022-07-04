@@ -5,4 +5,3 @@ echo 2.Get a pinnapple
 echo 3.Slice it up
 echo 4.Done
 echo 5.Eat it
-
